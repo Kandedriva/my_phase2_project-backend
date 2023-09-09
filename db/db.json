@@ -37,21 +37,21 @@
       "fName": "Drissa",
       "lName": "Kande",
       "email": "123web@gmail.com",
-      "passwor": "Goodluck"
+      "password": "Goodluck"
   },
   {
       "id": 1,
       "fName": "Issa",
       "lName": "Nacanabo",
       "email": "nacson@gmail.com",
-      "passwor": "Youtube"
+      "password": "Youtube"
   },
   {
       "id":2,
       "fName": "Oumar",
       "lName": "Soumahoro",
       "email": "OleO@gmail.com",
-      "passwor": "Filsd'Imam"
+      "password": "Filsd'Imam"
   }
 ],
 "waitingList":[
