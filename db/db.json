@@ -18,7 +18,7 @@
     "website": "www.google.com",
     "experience": "No experience Require",
     "location": "Online",
-    "description": "Apply what you learn at Flathiron School"
+    "description": "Apply what you learn at Flatiron School"
   },
   {
     "id": 2,
@@ -28,7 +28,7 @@
     "website": "www.microsoft.com",
     "experience": "No experience Require",
     "location": "Online and personal",
-    "description": "Apply what you learn at Flathiron School"
+    "description": "Apply what you learn at Flatiron School"
   }
 ],
 "users":[
@@ -60,8 +60,8 @@
       "applicationName": "Drissa",
       "lastName": "Kande",
       "email": "123web@gmail.com",
-      "history": "I use to work in a Restaurant, I at Whole Food Market and I'm currently working at Amazon",
-      "education": "Student at Flathiron School",
+      "history": "I used to work in a Restaurant at Whole Food Market, and I'm currently working at Amazon",
+      "education": "Student at Flatiron School",
       "availability": "Every Day, any time"
   }
 ]
