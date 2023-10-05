@@ -15,19 +15,74 @@ with a key pointing to an array of data, like this:
 
 ```json
 {
-  "toys": [
-    {
+  { "availableJobs" : [
+  {
+    "id": 0,
+    "company": "Amazon",
+    "jobTitle": "Amazon Shopper",
+    "salary": "$19/hour",
+    "website" : "www.amazon.force.com",
+    "experience": "No experience Require",
+    "location": "Brooklyn New York",
+    "description": "work in the warehouse: Work hard, have fun, make history."
+
+  },
+  {
+    "id": 1,
+    "company": "Google",
+    "jobTitle": "React developer",
+    "salary": "$50/hour",
+    "website": "www.google.com",
+    "experience": "No experience Require",
+    "location": "Online",
+    "description": "Apply what you learn at Flatiron School"
+  },
+  {
+    "id": 2,
+    "company": "Microsoft",
+    "jobTitle": "FrontEnd web developer",
+    "salary": "$55/hour",
+    "website": "www.microsoft.com",
+    "experience": "No experience Require",
+    "location": "Online and personal",
+    "description": "Apply what you learn at Flatiron School"
+  }
+],
+"users":[
+  {
+      "id": 0,
+      "fName": "Drissa",
+      "lName": "Kande",
+      "email": "123web@gmail.com",
+      "password": "Goodluck"
+  },
+  {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    }
+      "fName": "Issa",
+      "lName": "Nacanabo",
+      "email": "nacson@gmail.com",
+      "password": "Youtube"
+  },
+  {
+      "id":2,
+      "fName": "Oumar",
+      "lName": "Soumahoro",
+      "email": "OleO@gmail.com",
+      "password": "Filsd'Imam"
+  }
+],
+"waitingList":[
+  {
+      "id":0,
+      "applicationName": "Drissa",
+      "lastName": "Kande",
+      "email": "123web@gmail.com",
+      "history": "I used to work in a Restaurant at Whole Food Market, and I'm currently working at Amazon",
+      "education": "Student at Flatiron School",
+      "availability": "Every Day, any time"
+  }
+]
+}
   ]
 }
 ```
